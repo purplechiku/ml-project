@@ -33,6 +33,22 @@ Missing Value Analysis
 
 Duplicate Analysis
 
+## Dataset Location
+
+The dataset is **not included** in this repository because raw datasets should not be pushed to GitHub.
+
+After downloading the Olist dataset, place the CSV files in:
+
+```
+data/raw/
+```
+
+Processed datasets generated during preprocessing should be stored in:
+
+```
+data/processed/
+```
+
 Visualization
 
 Dataset Summary
