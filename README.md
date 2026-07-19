@@ -58,10 +58,12 @@ Processed datasets generated during preprocessing should be stored in:
 
 ```
 data/processed/
+```
+
 ## AI Assistance used 
    ChatGpt for improving project documentation.
    ChatGpt for resolving git-related errors.
-```
+
  ## Author
 
 **Harshita Verma**
