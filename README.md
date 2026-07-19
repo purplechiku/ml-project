@@ -7,23 +7,36 @@ This repository contains laboratory work for the Machine Learning course.
 Dataset:
 Olist Brazilian E-Commerce Dataset
 
-## Folder Structure
+## Project Structure
 
-data/raw
+ml-project/
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── figures/
+│   ├── lab01_order_status_distribution.png
+│   ├── lab01_payment_type_distribution.png
+│   └── lab01_review_score_distribution.png
+│
+├── models/
+│
+├── notebooks/
+│   └── Lab01_OList_Dataset_Introduction.ipynb
+│
+├── reports/
+│   ├── data_dictionary.md
+│   └── lab01_dataset_summary.csv
+│
+├── src/
+│
+├── .gitignore
+├── README.md
+└── requirements.txt
+```
 
-data/processed
-
-notebooks
-
-src
-
-reports
-
-figures
-
-models
-
-## Lab 1
+ ## Lab 1 
 
 Dataset loading
 
@@ -51,6 +64,15 @@ Processed datasets generated during preprocessing should be stored in:
 
 ```
 data/processed/
+## AI Assistance used 
+   ChatGpt for improving project documentation.
+   ChatGpt for resolving git-related errors.
 ```
+ ## Author
 
+**Harshita Verma**
+
+Machine Learning Lab – 2026  
+Roll no : 24B5028
+CSBS sem 5 
 
