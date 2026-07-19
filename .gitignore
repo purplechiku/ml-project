@@ -1,0 +1,22 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dataset folders
+data/raw/
+data/processed/
+
+# Trained models
+models/
+
+# Serialized model files
+*.pkl
+*.joblib
+
+# Environment variables
+.env
