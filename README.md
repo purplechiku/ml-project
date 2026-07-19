@@ -7,34 +7,28 @@ This repository contains laboratory work for the Machine Learning course.
 Dataset:
 Olist Brazilian E-Commerce Dataset
 
+## Project structure
 ## Project Structure
 
-ml-project/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── figures/
-│   ├── lab01_order_status_distribution.png
-│   ├── lab01_payment_type_distribution.png
-│   └── lab01_review_score_distribution.png
-│
-├── models/
-│
-├── notebooks/
-│   └── Lab01_OList_Dataset_Introduction.ipynb
-│
-├── reports/
-│   ├── data_dictionary.md
-│   └── lab01_dataset_summary.csv
-│
-├── src/
-│
-├── .gitignore
-├── README.md
-└── requirements.txt
-```
+- data
+  - raw
+  - processed
+- figures
+  - lab01_order_status_distribution.png
+  - lab01_payment_type_distribution.png
+  - lab01_review_score_distribution.png
+- models
+- notebooks
+  - Lab01_OList_Dataset_Introduction.ipynb
+- reports
+  - data_dictionary.md
+  - lab01_dataset_summary.csv
+- src
+- .gitignore
+- README.md
+- requirements.txt
+
+
 
  ## Lab 1 
 
